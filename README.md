@@ -1,33 +1,9 @@
 # TSA_Light
 Project For Technology Student Association 
 
-Print the TSA Light and LED template, insert LEDs into LED template and solder in parrel, insert row of LEDs into case, wire up switch, USB B connector, and 200 Ohm Resistor, 
+Print the TSA Light and LED template using the attached STL files, insert 7x3mm LEDs into LED template and solder in parallel, insert row of LEDs into case, wire up switch, USB B connector, and 200 Ohm Resistor, 
 
-Build the the acrylic sigh, use 3mm thick acrylic, laser cut a frame. Bad ASCII art to help illastrate how the sign should be cut
+Build the the acrylic sign, use 3mm thick acrylic, laser cut a frame. Attached is drawing.jpg which has a sketch with dimmenstions for laser cutting. 
 
 
-
-                    90mm
-____________________________________________________________________
-|                                                                   |
-
-|                                                                   |
-
-|                                                                   |
-
-|                                                                   |   -Sides are your choice, I recommend about 50mm 
-|                                                                   |
-|                                                                   |
-|                                                                   |
-|                                                                   |
-|                                                                   |
-|                                                                   |
-|                                                                   |
-|                                                                   |
-_______                                                        ______
-
-    |                                                           |   -Go down 4.5mm here
-    |                                                           |
-    --------------------------------------------------------------
-                            80mm
 
