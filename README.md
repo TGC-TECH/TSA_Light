@@ -10,8 +10,11 @@ Build the the acrylic sigh, use 3mm thick acrylic, laser cut a frame. Bad ASCII 
                     90mm
 ____________________________________________________________________
 |                                                                   |
+
 |                                                                   |
+
 |                                                                   |
+
 |                                                                   |   -Sides are your choice, I recommend about 50mm 
 |                                                                   |
 |                                                                   |
